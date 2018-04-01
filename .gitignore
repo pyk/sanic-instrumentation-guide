@@ -1,0 +1,9 @@
+# macOS stuff
+.DS_Store
+
+# VS Code stuff
+.vscode
+*.code-workspace
+
+# MyPy stuff
+.mypy_cache
