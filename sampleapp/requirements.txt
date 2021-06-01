@@ -18,7 +18,7 @@ sanic==0.7.0
 six==1.11.0
 typed-ast==1.1.0
 ujson==1.35
-urllib3==1.22
+urllib3==1.26.5
 uvloop==0.9.1
 websockets==4.0.1
 wrapt==1.10.11
