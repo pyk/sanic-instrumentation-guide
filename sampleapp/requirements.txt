@@ -1,6 +1,6 @@
 aiofiles==0.3.2
 astroid==1.6.2
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 flake8==3.5.0
 httptools==0.0.11
